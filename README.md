@@ -2,7 +2,7 @@
 
 For myself, I would say that I am disciplined, a charismatic person with desire to progress while enjoying it and a person who likes to communicate and learn new stuff.
 
-##I'm a Student, Developer, and Athlete!!!
+## I'm a Student, Developer, and Athlete!!!
 
 - 🔭 I’m currently working on developing my knowledge
 - 🌱 I’m currently learning ReactJS / Next.js
