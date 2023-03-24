@@ -8,13 +8,13 @@ For myself, I would say that I am disciplined, a charismatic person with desire 
 - 🌱 I’m currently learning ReactJS / Next.js
 - 👯 I’m looking to collaborate with IT Startup companies
 - 💬 Ask me about everything 😂
-- 🥅 2022 Goals: Gain high level knowledge in React
+- 🥅 2023 Goals: Gain high level knowledge in React
 - ⚡ Fun fact: I like anime, especially Bleach ⚔ and Death Note 📓
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nijaz-andelić-2812261bb/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nijaz-andelić-2812261bb/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/nijazandelic/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/nijazandelic/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/n.andelic/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/n.andelic/#gh-dark-mode-only)
