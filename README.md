@@ -1,6 +1,6 @@
 # Hi there, I'm Nijaz 👋
 
-For myself, I would say that I am disciplined, a charismatic person with desire to progress while enjoying it and a person who likes to communicate and learn new stuff.
+When it comes to describing myself, I would characterize myself as a disciplined individual with a charismatic demeanor, always driven to acquire new knowledge and skills. Moreover, I possess a strong ambition to continuously progress and excel in my pursuits.
 
 ## I'm a Student, Developer, and Athlete!!!
 
