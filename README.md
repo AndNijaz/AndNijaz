@@ -1,15 +1,15 @@
 # Hi there, I'm Nijaz 👋
 
-When it comes to describing myself, I would characterize myself as a disciplined individual with a charismatic demeanor, always driven to acquire new knowledge and skills. Moreover, I possess a strong ambition to continuously progress and excel in my pursuits.
+My name is Nijaz Andelić, a twenty-year-old student at Sarajevo School of Science and Technology, majoring in Computer Science. Since I was young, I have had a desire to become a "Doctor for computers" and I often engaged in reverse abstraction. I was curious about how computers work. Perhaps playing with Lego bricks in my childhood had an influence on that.
 
 ## I'm a Student, Developer, and Athlete!!!
 
-- 🔭 I’m currently working on developing my knowledge
+- 🔭 I’m currently working on developing my computer science knowledge
 - 🌱 I’m currently learning ReactJS / Next.js
 - 👯 I’m looking to collaborate with IT Startup companies
-- 💬 Ask me about everything 😂
+- 💬 Ask me about everything 
 - 🥅 2023 Goals: Gain high level knowledge in React
-- ⚡ Fun fact: I like anime, especially Bleach ⚔ and Death Note 📓
+- ⚡ Fun fact: Booklover
 
 ### Connect with me:
 
