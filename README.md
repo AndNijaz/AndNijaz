@@ -1,6 +1,6 @@
 # Hi there, I'm Nijaz 👋
 
-My name is Nijaz Andelić, a twenty-year-old student at Sarajevo School of Science and Technology, majoring in Computer Science. Since I was young, I have had a desire to become a "Doctor for computers" and I often engaged in reverse abstraction. I was curious about how computers work. Perhaps playing with Lego bricks in my childhood had an influence on that.
+My name is Nijaz Andelić, a twenty-one-year-old student at Sarajevo School of Science and Technology, majoring in Computer Science. Since I was young, I have had a desire to become a "Doctor for computers" and I often engaged in reverse abstraction. I was curious about how computers work. Perhaps playing with Lego bricks in my childhood had an influence on that.
 
 ## I'm a Student, Developer, and Athlete!!!
 
@@ -8,8 +8,8 @@ My name is Nijaz Andelić, a twenty-year-old student at Sarajevo School of Scien
 - 🌱 I’m currently learning ReactJS / Next.js
 - 👯 I’m looking to collaborate with IT Startup companies
 - 💬 Ask me about everything 
-- 🥅 2023 Goals: Gain high level knowledge in React
-- ⚡ Fun fact: Booklover
+- 🥅 2024 Goals: Stay happy and keep learning magic by coding in React
+- ⚡ Fun fact: Freelance, Booklover, Karate Black Belt, Runner 
 
 ### Connect with me:
 
